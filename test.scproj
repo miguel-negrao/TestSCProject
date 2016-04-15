@@ -1,0 +1,10 @@
+includePaths:
+    - "%ResourceDirectory%/SCClassLibrary"
+    - Classes/folder1
+    - Classes/folder2
+    - downloaded-quarks/VectorSpace
+excludePaths:
+    []
+postInlineWarnings: false
+excludeDefaultPaths: true
+project: true
