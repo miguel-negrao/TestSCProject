@@ -1,0 +1,6 @@
+[submodule "downloaded-quarks/quarks"]
+	path = downloaded-quarks/quarks
+	url = https://github.com/supercollider-quarks/quarks.git
+[submodule "downloaded-quarks/VectorSpace"]
+	path = downloaded-quarks/VectorSpace
+	url = https://github.com/supercollider-quarks/VectorSpace
