@@ -1,9 +1,9 @@
 includePaths:
-    - "%ResourceDirectory%/SCClassLibrary"
-    - Classes/folder1
-    - Classes/folder2
-    - Classes/startup
-    - downloaded-quarks/VectorSpace
+    -   "%ResourceDirectory%/SCClassLibrary"
+    -   "%UserExtensionDirectory%/test"
+    -   Classes/folder1
+    -   Classes/folder2
+    -   downloaded-quarks/Log
 excludePaths:
     []
 postInlineWarnings: false
