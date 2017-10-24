@@ -1,6 +1,18 @@
 [submodule "downloaded-quarks/quarks"]
 	path = downloaded-quarks/quarks
 	url = https://github.com/supercollider-quarks/quarks.git
-[submodule "downloaded-quarks/VectorSpace"]
-	path = downloaded-quarks/VectorSpace
-	url = https://github.com/supercollider-quarks/VectorSpace
+[submodule "downloaded-quarks/WindowViewRecall"]
+	path = downloaded-quarks/WindowViewRecall
+	url = ../../scztt/WindowViewRecall.quark
+[submodule "downloaded-quarks/UnitTesting"]
+	path = downloaded-quarks/UnitTesting
+	url = ../../supercollider-quarks/UnitTesting
+[submodule "downloaded-quarks/Singleton"]
+	path = downloaded-quarks/Singleton
+	url = ../../scztt/Singleton.quark
+[submodule "downloaded-quarks/Log"]
+	path = downloaded-quarks/Log
+	url = ../../scztt/log.quark
+[submodule "downloaded-quarks/Collapse"]
+	path = downloaded-quarks/Collapse
+	url = ../../scztt/Collapse.quark

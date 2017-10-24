@@ -3,6 +3,10 @@ includePaths:
     -   "%UserExtensionDirectory%/test"
     -   Classes/folder1
     -   Classes/folder2
+    -   downloaded-quarks/UnitTesting
+    -   downloaded-quarks/Singleton
+    -   downloaded-quarks/Collapse
+    -   downloaded-quarks/WindowViewRecall
     -   downloaded-quarks/Log
 excludePaths:
     []
